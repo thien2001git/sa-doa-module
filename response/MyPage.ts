@@ -6,3 +6,4 @@ interface MyPage<T> {
     page: number;
     totalPage: number;
 }
+export type {MyPage}
